@@ -1,6 +1,5 @@
-from math import *
+def sq(a):
+    return a**2
 
-def resh(a):
-    return(a**2)
 
-print(resh(2))
+print(sq(2))
